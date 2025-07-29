@@ -1,0 +1,6 @@
+2025-07-29T07:02:38.912Z | GET / | IP: ::1
+2025-07-29T07:02:38.974Z | GET /favicon.ico | IP: ::1
+2025-07-29T07:14:51.499Z | POST /shorten | IP: ::1
+2025-07-29T07:15:01.932Z | POST /shorten | IP: ::1
+2025-07-29T07:15:33.242Z | POST /shorten | IP: ::1
+2025-07-29T07:15:50.353Z | POST /shorten | IP: ::1
